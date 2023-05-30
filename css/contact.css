@@ -1,0 +1,35 @@
+.header-img {
+    background-image: url('../image/gif/contact us.gif');
+}
+
+
+
+.header-img-text {
+    padding: 12rem 0 12rem 0; 
+    text-align: center;
+    color: white;
+}
+
+
+.form {
+    /* background-image: linear-gradient(109.6deg, rgba(254, 253, 205, 1) 11.2%, rgba(163, 230, 255, 1) 91.1%); */
+    padding: 15px;
+    /* border: 1px solid red; */
+}
+
+.form-box {}
+
+.contact-heading {
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.contact-heading p {
+
+    color: red;
+    /* background-image: linear-gradient(109.6deg, rgba(254, 253, 205, 1) 11.2%, rgba(163, 230, 255, 1) 91.1%); */
+    padding: 15px;
+    font-size: 40px;
+}
+
